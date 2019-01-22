@@ -1,0 +1,22 @@
+###15 Jan 2019
+###Ebryx DFIR Team
+###Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
+
+rule SkypeJob_PowerRatankba_malware_dropper_B {
+   meta:
+      description = "SkypeJob_PowerRatankba_malware_dropper_B"
+      author = "@VK_Intel"
+      date = "2019-01-15"
+      hash1 = "db8163d054a35522d0dec35743cfd2c9872e0eb446467b573a79f84d61761471"
+   strings:
+      $f0 = "function EncryptDES" fullword ascii
+      $s0 = "$ProID = Start-Process powershell.exe -PassThru -WindowStyle Hidden -ArgumentList" fullword ascii
+      $s1 = "$respTxt = HttpRequestFunc_doprocess -szURI $szFullURL -szMethod $szMethod -contentData $contentData;" fullword ascii
+      $s2 = "$cmdSchedule = 'schtasks /create /tn \"ProxyServerUpdater\"" ascii
+      $s3 = "/tr \"powershell.exe -ep bypass -windowstyle hidden -file " ascii
+      $s4 = "C:\\\\Users\\\\Public\\\\Documents\\\\tmp' + -join " ascii
+      $s5 = "$cmdResult = cmd.exe /c $cmdInst | Out-String;" fullword ascii
+      $s6 = "whoami /groups | findstr /c:\"S-1-5-32-544\"" fullword ascii
+   condition:
+      filesize < 500KB and $f0 and 2 of ($s*) 
+}
