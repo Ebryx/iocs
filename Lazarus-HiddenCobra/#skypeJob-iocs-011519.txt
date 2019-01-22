@@ -1,0 +1,26 @@
+###15 Jan 2019
+###Ebryx DFIR Team
+###Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
+
+ApplicationPDF.zip 52ec074d8cb8243976963674dd40ffe7
+ApplicationPDF.exe 4c26b2d0e5cd3bfe0a3d07c4b85909a4
+
+REG_TIME.ps1 17f3d09b2d71942b6c1b8d8ed313ffef
+PowerShell script executes after REG_TIME.ps1 eb30a58da33f1caca3a01e1467d6661c
+PowerShell script that executes after REG_TIME.ps1 3c2f5ff382b0ec132101e92f72256490
+
+#Malicious powershells associated with PowerRatankba reconnaissance tool
+svc.ps1 beed88399bcd8648046b5fb30fd92be4
+Malicious powershell running with -ep bypass -window hidden command aff88674d2869f79f9c6d5ecf5fc2d63
+File dropped as HSMBalance.exe in perflogs folder 34404a3fb9804977c6ab86cb991fb130
+File dropped as hs.exe in perflogs folder df934e2d23507a7f413580eae11bb7dc
+
+#C2 servers
+ecombox.store
+autoif.online
+kair.xyz
+vanxuangroup.edu.vn
+45.32.114.96
+104.227.146.249
+2.21.242.227
+185.136.165.202
