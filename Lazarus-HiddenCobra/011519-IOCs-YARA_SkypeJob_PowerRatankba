@@ -2,6 +2,28 @@
 ###Ebryx DFIR Team
 ###Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
 
+import "pe"
+rule SkypeJob_PowerRatankba_malware_dropper {
+   meta:
+      description = "SkypeJob_PowerRatankba malware dropper"
+      author = "@VK_Intel"
+      type = "experimental"
+      date = "2019-01-15"
+      hash1 = "f12db45c32bda3108adb8ae7363c342fdd5f10342945b115d830701f95c54fa9"
+   strings:
+      $f0 = "ThreadProc" fullword wide ascii
+      $f1 = "SendUrl" fullword wide ascii
+      $ps1 = "ps1" fullword wide ascii
+      $b64 = "FromBase64String" fullword wide ascii
+      $pdb = "F:\\05.GenereatePDF\\CardOffer\\salary\\salary\\obj\\Release\\ApplicationPDF.pdb" fullword ascii
+   condition:
+      ( uint16(0) == 0x5a4d and
+         filesize < 1000KB and
+         pe.imphash() == "f34d5f2d4577ed6d9ceec516c1f5a744" and
+         ( $f0 and $f1 and $ps1 and #b64 > 2 )
+      ) or ( all of them )
+}
+
 rule SkypeJob_PowerRatankba_malware_dropper_B {
    meta:
       description = "SkypeJob_PowerRatankba_malware_dropper_B"
