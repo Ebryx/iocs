@@ -1,0 +1,14 @@
+### Last Updated: 23 Jan 2019
+### Detection Date: 15 Jan 2019
+###Ebryx DFIR Team
+###Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
+
+#C2 servers
+ecombox.store
+autoif.online
+kair.xyz
+vanxuangroup.edu.vn
+45.32.114.96
+104.227.146.249
+2.21.242.227
+185.136.165.202
