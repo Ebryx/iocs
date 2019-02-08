@@ -12,5 +12,5 @@ Selected set of IOCs released by Ebryx DFIR team working on CA/Incident Response
 
 >Abbreviations
 
-**Ex**:Ebryx \
-**TI**:Threat Intel
+**Ex**: Ebryx \
+**TI**: Threat Intel
