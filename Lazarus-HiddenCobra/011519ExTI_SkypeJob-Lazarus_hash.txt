@@ -1,4 +1,4 @@
-### Last Updated: 08 Feb 2019
+### Last Updated: 12 Feb 2019
 ### Detection Date: 15 Jan 2019
 ### Ebryx DFIR Team
 ### Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
@@ -116,8 +116,22 @@ d83eee57105ba111fccd11da8dc39b6f48980ff0;SkypeJob SHA1 - Source: Ebryx DFIR
 13bbb68bcd19bf1aea0f95986d254b7b;SkypeJob MD5 - Source: Ebryx DFIR
 3aa4bc4bbb35cf068eec65460d46aec4a17097be;SkypeJob SHA1 - Source: Ebryx DFIR
 63e87877eb6a2b2bbba2fc6b1d13550f7d982b0c3b9ee8e2d902fc6e0774f744;SkypeJob SHA256 - Source: Ebryx DFIR
+
+#init.dll
+#Utilizes SMB2 protocol to drop the keyloggers into the victim's machines (c$\Intel\init.dll -- through hidden share in Windows) using admin credentials dumped from ActiveDirectory
+3d918eb7e05000a08cffb3a6cbb9918b29c98804;SkypeJob SHA1 - Source: Ebryx DFIR
+31df39a09423bf2fa81b3e8c3753ae650d720997;SkypeJob SHA1 - Source: Ebryx DFIR
+
+#init.exe
+#Utilizes SMB2 protocol to drop the keyloggers into the victim's machines (c$\Intel\init.dll -- through hidden share in Windows) using admin credentials dumped from ActiveDirectory
+f68aeb3d286b62bba59614703f2639acf7e466be;SkypeJob SHA1 - Source: Ebryx DFIR
+09dfe886a67cae01a1d206a6b88e06c6b32f2be9;SkypeJob SHA1 - Source: Ebryx DFIR
+
+#intelgfx.exe
+#Utilizes SMB2 protocol to drop the keyloggers into the victim's machines (c$\Intel\init.dll -- through hidden share in Windows) using admin credentials dumped from ActiveDirectory
+cabdab3bbb9a3f06cf5752550073790a0e4804dd;SkypeJob SHA1 - Source: Ebryx DFIR
  
-#### International Threat Intel
+######################## International Threat Intel
 #REG_TIME.ps1	
 #Chile variant of PowerRatankba
 f34b72471a205c4eee5221ab9a349c55;SkypeJob MD5 - Source: Flashpoint-Intel
