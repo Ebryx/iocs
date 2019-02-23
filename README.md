@@ -1,4 +1,4 @@
-# iocs
+# Malware IOCs and TTPs of various threat actors
 Selected set of IOCs released by Ebryx DFIR team working on CA/Incident Response assignments 
 
 >Naming convention
