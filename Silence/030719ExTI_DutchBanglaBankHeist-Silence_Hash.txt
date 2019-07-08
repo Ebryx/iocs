@@ -1,3 +1,8 @@
+### Last Updated: 12 June 2019
+### Detection Date: 03 June 2019
+### Ebryx DFIR Team
+### Latest IOCs of Silence Group suspected to be behind the $3 Million Dutch Bangla Bank Heist
+
 412872841d66301af078b5388d37d9f59d7e60b4a66180de0afc66719fe7fb95;Silence - Source: Ebryx
 79b5353af7e2be60699d4c8bc575d4c755e90378d2ee273bc3a3eb2c21a2fee5;Silence - Source: Ebryx
 fb07fb7cb7b15ecb86920b74be2ec2b955ae356b464baa7415a7f257b0c02e98;Silence - Source: Ebryx
