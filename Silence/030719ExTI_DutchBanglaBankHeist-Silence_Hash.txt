@@ -1,7 +1,7 @@
 ### Last Updated: 12 June 2019
 ### Detection Date: 03 June 2019
 ### Ebryx DFIR Team
-### Latest IOCs of Silence Group suspected to be behind the $3 Million Dutch Bangla Bank Heist
+### Latest IOCs of Silence Group suspected to be behind the $3 Million Dutch Bangla Bank Heist. The mules caught by Bangladesh Police told they were part of Lazarus Group a.k.a. Hidden Cobra which could possibly be a deceiving move by them.
 
 412872841d66301af078b5388d37d9f59d7e60b4a66180de0afc66719fe7fb95;Silence - Source: Ebryx
 79b5353af7e2be60699d4c8bc575d4c755e90378d2ee273bc3a3eb2c21a2fee5;Silence - Source: Ebryx
