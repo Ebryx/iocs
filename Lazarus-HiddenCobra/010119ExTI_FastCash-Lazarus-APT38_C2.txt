@@ -12,7 +12,7 @@ download.ns360.info;APT38 - Source: Ebryx
 geodb.ignorelist.com;APT38 - Source: Ebryx
 lakers.crabdance.com;APT38 - Source: Ebryx
 lcgmd.strangled.net;APT38 - Source: Ebryx
-mlods.strangled.net;APT38 - Source: Ebryx
+mlods.strangled.net;APT38 - Source: Ebryx 
 mones.biz.tm;APT38 - Source: Ebryx
 movis-es.ignorelist.com;APT38 - Source: Ebryx
 onlink.epac.to;APT38 - Source: Ebryx
