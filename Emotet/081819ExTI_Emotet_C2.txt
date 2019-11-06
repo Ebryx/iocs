@@ -1,0 +1,33 @@
+#### Last Updated: 18 Aug 2019
+#### Ebryx DFIR Team
+#### A collection of C2 URLs and IP addresses aggregated and vetted by Ebryx DFIR team against Emotet.
+
+192.99.38.200;Emotet - Source: Ebryx
+109.74.204.70;Emotet - Source: Ebryx
+119.82.27.246;Emotet - Source: Ebryx
+194.88.246.7;Emotet - Source: Ebryx
+144.76.79.43;Emotet - Source: Ebryx
+212.83.166.45;Emotet - Source: Ebryx
+85.143.221.180;Emotet - Source: Ebryx
+137.74.254.64;Emotet - Source: Ebryx
+104.236.2.253;Emotet - Source: Ebryx
+188.165.220.214;Emotet - Source: Ebryx
+85.143.221.180;Emotet - Source: Ebryx
+173.212.192.45;Emotet - Source: Ebryx
+109.74.204.70;Emotet - Source: Ebryx
+104.236.2.253;Emotet - Source: Ebryx
+192.81.212.79;Emotet - Source: Ebryx
+164.132.50.32;Emotet - Source: Ebryx
+144.76.79.43;Emotet - Source: Ebryx
+188.165.220.214;Emotet - Source: Ebryx
+119.82.27.246;Emotet - Source: Ebryx
+173.11.129.38;Emotet - Source: Ebryx
+178.62.175.211;Emotet - Source: Ebryx
+212.83.166.45;Emotet - Source: Ebryx
+173.230.145.224;Emotet - Source: Ebryx
+194.88.246.7;Emotet - Source: Ebryx
+137.74.254.64;Emotet - Source: Ebryx
+192.99.38.200;Emotet - Source: Ebryx
+93.180.157.92;Emotet - Source: Ebryx
+158.69.199.223;Emotet - Source: Ebryx
+74.208.17.10;Emotet - Source: Ebryx
