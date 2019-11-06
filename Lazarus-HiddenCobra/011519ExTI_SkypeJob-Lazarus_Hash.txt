@@ -35,7 +35,7 @@ bed916831e8c9babfb6d08644058a61e3547d621f847c081309f616aed06c2fe;SkypeJob SHA256
 
 #LoadEmbeddedPE_v1.ps1	
 #Keylogger Dropper, Newly discovered
-5ad8143d954ebd5de6be0a40e0f65732 ;SkypeJob MD5 - Source: Ebryx DFIR
+5ad8143d954ebd5de6be0a40e0f65732;SkypeJob MD5 - Source: Ebryx DFIR
 e8f0df6c44414644d37ba03a7d022e3c30181628;SkypeJob SHA1 - Source: Ebryx DFIR
 974ccadc8a128b6fcfa50c6496cf3fed0bc58ed5151623d946330975be36f0b4;SkypeJob SHA256 - Source: Ebryx DFIR
 
@@ -135,7 +135,7 @@ cabdab3bbb9a3f06cf5752550073790a0e4804dd;SkypeJob SHA1 - Source: Ebryx DFIR
 #REG_TIME.ps1	
 #Chile variant of PowerRatankba
 f34b72471a205c4eee5221ab9a349c55;SkypeJob MD5 - Source: Flashpoint-Intel
-e8b58b9db83b4902a607559301f6985763d2647ac;SkypeJob SHA1 - Source: Flashpoint-Intel
+e8b58b9db83b4902a607559301f6985763d2647a;SkypeJob SHA1 - Source: Flashpoint-Intel
 a1f06d69bd6379e310b10a364d689f21499953fa1118ec699a25072779de5d9b;SkypeJob SHA256 - Source: Flashpoint-Intel
 
 #hs.exe
