@@ -1,6 +1,6 @@
-#### Last Updated: 01 Jan 2019
+#### Last Updated: 18 Aug 2019
 #### Ebryx DFIR Team
-#### A collection of publicy and privately available C2 URLs and IP addresses aggregated and vetted by Ebryx DFIR team against APT38/FashCash malware used in the bank heists by the threat actor Lazarus/HiddenCobra.
+#### A collection of public and private C2 URLs and IP addresses aggregated and vetted by Ebryx DFIR team against APT38/FashCash malware used in the bank heists by the threat actor Lazarus/HiddenCobra.
 
 ecombox.store;Lazarus - Source: Ebryx
 checkupdates.flashserv.net;APT38 - Source: Ebryx
