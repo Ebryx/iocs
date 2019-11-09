@@ -1,0 +1,11 @@
+### Last Updated: 08 Nov 2019 
+### Detection Date: 19 Feb 2019
+### Ebryx DFIR Team
+
+### Latest IOCs of an attack by Lazarus/HiddenCobra on Russian companies using KEYMARBLE
+
+# C2 Servers
+
+http[:]//37.238.135[.]70/img/anan.jpg
+194.45.8.41:443 (KEYMARBLE C2)
+sbackservice[.]com
