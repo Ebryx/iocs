@@ -3,7 +3,7 @@ Selected set of IOCs released by Ebryx DFIR team working on CA/Incident Response
 
 >Naming convention
 ```
-<DDMMYYExTI>_<Campaign-Name1>-<Campaign-Name2 OR Threat-Actor OR RelatedKeyword>_<C2||Hash||YARA||Misc><extension:.txt||.csv||.yara||.ioc>
+<MMDDYYExTI>_<Campaign-Name1>-<Campaign-Name2 OR Threat-Actor OR RelatedKeyword>_<C2||Hash||YARA||Misc><extension:.txt||.csv||.yara||.ioc>
 ```
 
 >Examples
