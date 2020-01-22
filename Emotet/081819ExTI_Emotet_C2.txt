@@ -1,4 +1,4 @@
-#### Last Updated: 18 Aug 2019
+#### Last Updated: 22 Jan 2020
 #### Ebryx DFIR Team
 #### A collection of C2 URLs and IP addresses aggregated and vetted by Ebryx DFIR team against Emotet.
 
@@ -31,3 +31,7 @@
 93.180.157.92;Emotet - Source: Ebryx
 158.69.199.223;Emotet - Source: Ebryx
 74.208.17.10;Emotet - Source: Ebryx
+
+http://istitutodarzo.gov.it;Emotet - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
+http://hmgy.gov.co;Emotet - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
+http://fcs.mg.gov.br;Emotet - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
