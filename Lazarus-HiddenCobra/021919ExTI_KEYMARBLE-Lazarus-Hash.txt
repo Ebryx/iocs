@@ -1,0 +1,22 @@
+### Last Updated: 08 Nov 2019 
+### Detection Date: 19 Feb 2019
+### Ebryx DFIR Team
+### Latest IOCs of an attack by Lazarus/HiddenCobra on Russian companies using KEYMARBLE
+
+# ErrorDetail.doc
+088c6157d2bb4238f92ef6818b9b1ffe44109347
+
+# Serial_Numbers.xls
+4cd5a4782dbed5b8e337ee402f1ef748b5035709
+
+# LosAngeles_Court_report.doc
+e89458183cb855118539373177c6737f80e6ba3f
+
+# New KEYMARBLE Sample
+2b4fb64c13c55aa549815ec6b2d066a75ccd248e 
+
+# Old KEYMARBLE Sample
+d1410d073a6df8979712dd1b6122983f66d5bef8 
+
+# Decoy PDF File in ZIP 
+a5b2c704c5cff550e6c47454b75393add46f156f

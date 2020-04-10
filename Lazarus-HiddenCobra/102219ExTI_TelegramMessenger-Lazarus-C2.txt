@@ -1,0 +1,19 @@
+#### Last Updated: 08 Nov 2019
+### Date Detected: 22 Oct 2019
+#### Ebryx DFIR Team
+
+### A collection of IoC's from several payloads deployed the Lazarus Group/Hidden Cobra via Telegram Messenger
+
+# C2 Domains and Servers
+
+crabbedly[.]club/board.php
+craypot[.]live/board.php
+indagator[.]club/board.php
+czinfo[.]club/common.php
+smilekeepers[.]co/smile.php
+czinfo[.]club/common.php
+smilekeepers[.]co/smile.php
+indagator[.]club/board.php	
+pegasusco[.]net/acide.php
+pegasuscop[.]net/acide.php
+craypot[.]live/board.php
