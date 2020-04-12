@@ -1,10 +1,11 @@
 /*
-### Last Updated: 06 Feb 2019
-### Detection Date: 15 Jan 2019
-### Ebryx DFIR Team
-### Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
-*/
 
+Last Updated: 06 Feb 2019
+Detection Date: 15 Jan 2019
+Author: Ebryx DFIR Team
+Description: Latest IOCs of skypeJob malware dropper that serves the intrusion point for APT38/FashCash by Lazarus/HiddenCobra
+
+*/
 
 import "pe"
 import "hash" 

@@ -1,7 +1,0 @@
-#### Last Updated: 06 Nov 2019
-#### Ebryx DFIR Team
-#### A collection of public and private malware binary hashes aggregated and vetted by Ebryx DFIR team in Indian ATM hack.
-
-8f360227e7ee415ff509c2e443370e56;DTrack ATM Malware - Source: Ebryx DFIR
-3a3bad366916aa3198fd1f76f3c29f24;DTrack ATM Malware - Source: Ebryx DFIR
-F84de0a584ae7e02fb0ffe679f96db8d;DTrack ATM Malware - Source: Ebryx DFIR
