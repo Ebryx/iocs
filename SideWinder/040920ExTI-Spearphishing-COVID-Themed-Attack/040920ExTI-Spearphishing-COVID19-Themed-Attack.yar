@@ -5,7 +5,7 @@ rule sidewinder_stage1_dropper : APT_SideWinder {
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
 		description = "Detects stage-1 javascript dropper"
-		tlp = "Green”
+		tlp = "Green"
 	strings:
 		$cnc1 = "o.pink" fullword
 		$cnc2 = "o.Work" fullword
@@ -18,7 +18,7 @@ rule sidewinder_stage1_dropper : APT_SideWinder {
 		$com2 = "javascript"
 		$com3 = "</script>"
 	condition:
-		filesize >= 300KB and (1 of ($cnc*) and 2 of ($com*) and 3 of ($enum*))
+		filesize >= 200KB and (1 of ($cnc*) and 2 of ($com*) and 3 of ($enum*))
 }
 
 rule sidewinder_linkzip_dll : APT_SideWinder {
@@ -38,7 +38,7 @@ rule sidewinder_linkzip_dll : APT_SideWinder {
 		$str8 = "'System.Reflection.Assembly Load(Byte[])" fullword ascii
 		$str9 = "mshta.exe"
 	condition:
-		filesize < 4KB and (7 of ($str*)) and uint16be(0) == 0x4D5A
+		filesize < 10KB and (6 of ($str*)) and uint16be(0) == 0x4D5A
 }
 
 rule sidewinder_duser_dll : APT_SideWinder {
@@ -46,9 +46,8 @@ rule sidewinder_duser_dll : APT_SideWinder {
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
 		description = "Detects DUser.dll dropped by stage-1 javascript dropper"
-		tlp = "Green”
+		tlp = "Green"
 	strings:
-		$ep = { FF 25 00 20 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 }
 		$str1 = "$92d2f2dd-43d1-49a9-9ab5-b56ad3eb4af9"
 		$str2 = "_CorDllMain"
 		$str3 = "\\DUSER.dll"
@@ -62,7 +61,7 @@ rule sidewinder_duser_dll : APT_SideWinder {
 		$exp2 = "InitGadgets"
 		$exp3 = "Gadgets"
 	condition:
-		filesize < 7KB and all of ($str*) and (any of ($exp*) or all of ($com*)) and uint16be(0) == 0x4D5A and $ep at pe.entry_point
+		filesize < 7KB and 4 of ($str*) and (any of ($exp*) and all of ($com*)) and uint16be(0) == 0x4D5A
 }
 
 rule sidewinder_pdf_doc_spearphishing : APT_SideWinder {
@@ -70,10 +69,10 @@ rule sidewinder_pdf_doc_spearphishing : APT_SideWinder {
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
 		description = "Detects .lnk file sent in email containing the command to contact C2 domain"
-		tlp = "Green”
+		tlp = "Green"
 	strings:
 		$str1 = "cftmo.exe"
 		$str2 = "user-pc"
 	condition:
-		filesize <= 297KB and 2 of ($str*) and uint16be(0) == 0x4D5A
+		filesize <= 300KB and 2 of ($str*) and uint16be(0) == 0x4D5A
 }
