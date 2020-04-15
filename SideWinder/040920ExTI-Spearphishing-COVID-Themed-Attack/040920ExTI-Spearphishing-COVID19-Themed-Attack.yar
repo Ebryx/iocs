@@ -73,6 +73,8 @@ rule sidewinder_pdf_doc_spearphishing : APT_SideWinder {
 	strings:
 		$str1 = "cftmo.exe"
 		$str2 = "user-pc"
+		$str3 = "C:\\Windows\\System32\\"
+		$str4 = {6D 00 73 00 48 00 74 00 61}
 	condition:
-		filesize <= 300KB and 2 of ($str*) and uint16be(0) == 0x4D5A
+		filesize <= 297KB and all of them
 }
