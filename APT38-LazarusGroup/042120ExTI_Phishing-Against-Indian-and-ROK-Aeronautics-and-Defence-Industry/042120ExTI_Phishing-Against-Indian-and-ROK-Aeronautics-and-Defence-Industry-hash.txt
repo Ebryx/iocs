@@ -1,0 +1,3 @@
+34b4546e3468238702df24794e598add494beaeacf95df10af54d88b3d241e8a; US-ROK Relations and Defense Security - Malicious document leveraging template injection to execute a macro, which drops the backdoor
+a3eca35d14b0e020444186a5faaba5997994a47af08580521f808b1bb83d6063; Boeing_PMS.docx - Potentially targetting the aeronautics industry
+1b0c82e71a53300c969da61b085c8ce623202722cf3fa2d79160dac16642303f; 43.dotm - Several mentions of Boeing - Potentially targetting the aeronautics industry
