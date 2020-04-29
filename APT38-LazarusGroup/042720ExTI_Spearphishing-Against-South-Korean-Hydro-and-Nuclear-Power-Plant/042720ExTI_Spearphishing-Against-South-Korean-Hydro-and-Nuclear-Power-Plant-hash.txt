@@ -2,3 +2,4 @@
 beaf8ea4231c8d5a2dcd659cee794d37577a9d89e5b9473ab815f4ddc4bd1574; APT38 - Campaign targeting South Korea Hydro and Nuclear Power Plant - gsa3DE1.tmp (dropped file)
 66a4eb6f99e942a6ba326de64fd893a5e18f6812dda224873ba94382cc00b3ed; APT38 - Campaign targeting South Korea Hydro and Nuclear Power Plant - EMB000008503203.ps (dropped PostScript file)
 692935951515d90b7b324207ec8e5d637807a37919219c9a1d4e429896fcb71b; APT38 - Campaign targeting South Korea Hydro and Nuclear Power Plant - gst3DE1.tmp (dropped file)
+b746127fa6e7a2d75bf46ce5a31b50e7f82b665b87e4668ebfc79a65bc7029c5; Lazarus - Spearphishing decoy document
