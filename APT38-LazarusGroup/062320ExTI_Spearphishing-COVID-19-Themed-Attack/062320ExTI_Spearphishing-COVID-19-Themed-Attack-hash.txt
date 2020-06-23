@@ -1,0 +1,3 @@
+0fa91cac5712cfc0848af092190fd3d09948f1a7750547f0f16d1867dac6288a; APT38 - Spearphishing COVID-19-themed document against South Korea
+874049cf58160521c1ba10023fdc5ffac87bbc885123e13c800a96e590c2accb; APT38 - Spearphishing COVID-19-themed document against South Korea
+85b6c167b50c8d9807c80990ce88cc3bf7e4b449b7d86b347090b33d1bc0030b; APT38 - Spearphishing COVID-19-themed document against South Korea
