@@ -1,3 +1,5 @@
-916654e2ee43d2ee43f0d5e9d41f8527aaf239684f91f9b92ac5c1937cd45c91; APT38 - Fake Microsoft Image Store file
-eab9136da8cc5c1a8a9fc528d64ef1ce11e385def98957712887785178e202a3; APT38 - Fake Microsoft Image Store file
-e893b4f6b6f3ab977c96ab5e2c6115969cbe46a143531bfc9920d1b9972ebc12; APT38 - Fake Microsoft Image Store file
+916654e2ee43d2ee43f0d5e9d41f8527aaf239684f91f9b92ac5c1937cd45c91; APT38 - Fake Microsoft Image Store
+eab9136da8cc5c1a8a9fc528d64ef1ce11e385def98957712887785178e202a3; APT38 - Fake Microsoft Image Store
+e893b4f6b6f3ab977c96ab5e2c6115969cbe46a143531bfc9920d1b9972ebc12; APT38 - Fake Microsoft Image Store
+40273d18abc0d623a1798766e0d388f2f46bfa7ad535cad46098a5262382fa13; APT38 - Fake Microsoft Edge
+147f1de257ccbe54b0fca9e61e0f2061172459bef4eeb12014d27e48d99f27ab; APT38 - Fake Microsoft Edge
