@@ -1,0 +1,2 @@
+9cc387fd485e91fc58a626d2c64b85e0502ba60f3718afd7b5fd6e5b46721bb9; Fake Sumatra PDF reader - Source: ClearSky
+adce894e3ce69c9822da57196707c7a15acee11319ccc963b84d83c23c3ea802; Fake Sumatra PDF reader - Source: ClearSky
