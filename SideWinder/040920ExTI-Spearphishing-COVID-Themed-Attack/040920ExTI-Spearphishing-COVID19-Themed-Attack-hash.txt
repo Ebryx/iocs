@@ -30,3 +30,5 @@ b1fa0771099733e7a9fa296acc7518c1e36c4e473b59eec7acbfb89d80252757;  rekeywiz.exe.
 f674a13a37d19aa2fdb8abfcba1d6a18; LinkZip.dll - Malicious binary embedded inside 966029e.hta, gets unpacked directly into the memory as an anti-forensics mechanism. The binary is written by James Forshaw of Google Project Zero
 eec122a924563b5770ee02cf4f5e3dcedc67b0db; LinkZip.dll - Malicious binary embedded inside 966029e.hta, gets unpacked directly into the memory as an anti-forensics mechanism. The binary is written by James Forshaw of Google Project Zero
 08588edcd50c3d5a81531e0ecfe8b01a105d4ce93a3084f268ddf23cddbf44c9; LinkZip.dll - Malicious binary embedded inside 966029e.hta, gets unpacked directly into the memory as an anti-forensics mechanism. The binary is written by James Forshaw of Google Project Zero
+
+a89189f1c7c101c8d9c2637e571c4f8546df3ea557a576090cde7b75009981a9; info_regarding_Police_Official_Infectedwithcovid.doc - Spear-phishing document listing information of Police officials infected with COVID
