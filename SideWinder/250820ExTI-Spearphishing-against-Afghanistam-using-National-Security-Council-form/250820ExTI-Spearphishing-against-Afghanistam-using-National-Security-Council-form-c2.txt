@@ -1,0 +1,2 @@
+itfile.nsc.filesrvr.net; ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
+asw-edu.net; ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
