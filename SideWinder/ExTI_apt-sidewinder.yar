@@ -1,10 +1,10 @@
 import "pe"
 
-rule sidewinder_stage1_dropper : APT_SideWinder {
+rule sidewinder_stage1_dropper : APT_Sidewinder {
 	meta:
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
-		description = "Detects stage-1 javascript dropper"
+		description = "Detects stage-1 JavaScript dropper"
 		tlp = "Green"
 	strings:
 		$cnc1 = "o.pink" fullword
@@ -21,7 +21,7 @@ rule sidewinder_stage1_dropper : APT_SideWinder {
 		filesize >= 200KB and (1 of ($cnc*) and 2 of ($com*) and 3 of ($enum*))
 }
 
-rule sidewinder_linkzip_dll : APT_SideWinder {
+rule sidewinder_linkzip_dll : APT_Sidewinder {
 	meta:
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
@@ -41,7 +41,7 @@ rule sidewinder_linkzip_dll : APT_SideWinder {
 		filesize < 10KB and (6 of ($str*)) and uint16be(0) == 0x4D5A
 }
 
-rule sidewinder_duser_dll : APT_SideWinder {
+rule sidewinder_duser_dll : APT_Sidewinder {
 	meta:
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
@@ -64,7 +64,7 @@ rule sidewinder_duser_dll : APT_SideWinder {
 		filesize < 7KB and 4 of ($str*) and (any of ($exp*) and all of ($com*)) and uint16be(0) == 0x4D5A
 }
 
-rule sidewinder_spearphishing_lnk : APT_SideWinder {
+rule sidewinder_spearphishing_lnk : APT_Sidewinder {
 	meta:
 		author = "Ebryx DFIR"
 		date = "09-04-2020"
@@ -79,11 +79,11 @@ rule sidewinder_spearphishing_lnk : APT_SideWinder {
 		filesize <= 297KB and all of them
 }
 
-rule maldoc_rtf_cve_2017_118822 : APT_SideWinder {
+rule maldoc_rtf_cve_2017_11882 : APT_Sidewinder {
 
 	meta:
 		author = "Ebryx DFIR"
-		date = "26-08-2020"
+		date = "25-08-2020"
 		description = "Detects the maldoc in spear-phishing campaign by SideWinder"
 		tlp = "Green"
 
@@ -104,11 +104,11 @@ rule maldoc_rtf_cve_2017_118822 : APT_SideWinder {
 		( 5 of ($x*) or (all of ($obj*) and 2 of ($x*))) and (uint32be(0) == 0x7B5C7274 or uint32be(0) == 0x7B5C2A5C) and filesize > 300KB
 }
 
-rule sidewinder_stage1_dropper_variant1 : APT_SideWinder {
+rule sidewinder_stage1_dropper_variant1 : APT_Sidewinder {
 
 	meta:
 		author = "Ebryx DFIR"
-		date = "26-08-2020"
+		date = "25-08-2020"
 		description = "Detects Stage-1 javascript dropper"
 		tlp = "Green"
 

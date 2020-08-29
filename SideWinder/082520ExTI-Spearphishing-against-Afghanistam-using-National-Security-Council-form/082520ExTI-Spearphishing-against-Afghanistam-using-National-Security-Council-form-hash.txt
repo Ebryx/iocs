@@ -1,1 +1,0 @@
-8b30570303dc26bc02fb95a42b4ce91ccf82a02998c67f73340c50630a0aa5dd; ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe

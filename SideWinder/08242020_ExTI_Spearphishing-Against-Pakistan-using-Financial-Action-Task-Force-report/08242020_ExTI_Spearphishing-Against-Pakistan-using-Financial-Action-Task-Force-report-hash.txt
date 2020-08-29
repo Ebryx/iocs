@@ -1,2 +1,0 @@
-63aba37a9291a75256b9f89cb5a999ee6ada020be4917caaed39382f7a637b18; Spear-phishing document targetting Pakistan using a Financial Action Task Force report as bait
-1fd742baa9b2ab29e30780d9a92bc3e2db03d1a17f48f956d74dfe6fb98a7aca; Spear-phishing document targetting Pakistan using Pakistan-India Relations briefing as bait
