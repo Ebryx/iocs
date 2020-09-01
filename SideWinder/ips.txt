@@ -1,0 +1,8 @@
+185.99.133.106;Spear-phishing using ASPAC document listing participant details AND against Bangladesh Indenting Agents' Association
+
+185.163.45.199;Spearphishing Against Air University - Hosts the C2 domain 'au-edu.km01s.net'
+46.30.189.44;Spearphishing Against Air University - Hosts the C2 domain kat0x[.]net
+
+5.181.156.24;COVID19 Themed Attack - Hosts the C2 domain d01fa[.]net
+185.225.19.96;COVID19 Themed Attack - Hosts the C2 domain cloud-apt[.]net
+185.163.47.134;COVID19 Themed Attack - Hosting similar malware variant

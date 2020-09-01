@@ -1,1 +1,0 @@
-389518ac65595ad9138b5dd0185aae851d979d4705d74f191492f002e63438c5; APT38 - Fake Google Chrome executable

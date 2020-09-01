@@ -1,7 +1,0 @@
-8de4eb52db0ce19d295dd7f1c6e89522d1a09fa26709c058327701b4c436349f; Spear-phishing document targetting British Aerospace Systems
-c5918c1c684c5dd20f039fb3442638a98d4e139936336d64b2accdeed7558390; Spear-phishing document targetting British Aerospace Systems
-11dbbad391345d5817cad17a5c7e4db5b75f005a04500677cc6761408d43b7b7; Malicious PDF document - Source: ClearSky
-0250b273344317c9a1e5a49fb7e0d2d8d2e3e3a6c6fccf1039d52122df9747ba; Malicious PDF document - Source: ClearSky
-dad8f05d749f3cddee19fd34cd3e5a84a2ef5ada7a4f20858d5e483617677d67; Malicious PDF document - Source: ClearSky
-56dabf1ddd5c9a93a6f35dd7f210367baee545296838d321dfea6ee49575c9af; Malicious PDF document - Source: ClearSky
-43b6b0af744124da5147aba81a98bc7188718d5d205acf929affab016407d592; Malicious PDF document - Source: ClearSky

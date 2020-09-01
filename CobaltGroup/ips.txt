@@ -1,0 +1,3 @@
+95.142.39.109;Spear-phishing campaign against Russian banks
+138.68.234.128;Spear-phishing campaign against Russian banks
+104.144.207.207;Spear-phishing campaign against Russian banks

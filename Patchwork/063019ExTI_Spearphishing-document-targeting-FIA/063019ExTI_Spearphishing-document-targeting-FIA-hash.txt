@@ -1,3 +1,0 @@
-22960057a38990ed2b0d79b2554c6364f15ea74a8cf1ab257f01e4f39b9851ea; Spear-phishing document using National Network Security Incident Contingency Plans as a bait, possibly targeting FIA
-27fa4065becbdcd6a714be84578e95e60359218eabc7adf236cd488ba0f5da42; Spear-phishing document using National Network Security Incident Contingency Plans as a bait, possibly targeting FIA
-e49d19dbd76d7c4cf87b3f6112c0f41ec66281ec44ada76cb57e7e71b641cdd2; Spear-phishing document using National Network Security Incident Contingency Plans as a bait, possibly targeting FIA

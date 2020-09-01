@@ -1,4 +1,0 @@
-0eca58ef6f2aba6b3e686f76039945b3a8a8110d357a4f8d857757c218ca0c1e; APT38 - Fake Mozilla Firefox file
-6f79db3e7fa1f3c9e1ea2e0fe098994f109949f82b97c6612386693164d3c7e2; APT38 - Fake Mozilla Firefox file
-b27c02b4a272453194d0f03c395c4e3dbdf0efc4b8a61cd33b1a70320acf5345; APT38 - Fake Mozilla Firefox file
-ca3372bb37e7109896c28247faadd157759d5e68ac324a54ff0759590f956094; APT38 - Fake Mozilla Firefox file

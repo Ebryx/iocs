@@ -1,8 +1,0 @@
-azcloud.jetos.com; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-waterm.publicvm.com; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-103.95.99.3; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-103.5.124.94; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-95.0.200.212; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-114.113.63.130; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-75.146.197.161; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure
-66.181.166.15; Lazarus campaign targeting the cryptocurrency industry - Source: F2-Secure

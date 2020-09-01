@@ -1,4 +1,0 @@
-www.au-edu[.]km01s[.]net; Hosts 'fila.hta' (stage-II malware)
-185.163.45[.]199; Hosts the C2 domain 'au-edu.km01s.net'
-kat0x[.]net; Domain returns a LetsEncrypt certificate in reply to a DNS query made by .HTA malware
-46.30.189[.]44; Hosts the C2 domain kat0x[.]net

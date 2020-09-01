@@ -1,6 +1,0 @@
-51.77.65.154; APT38 - Spear-phishing against Boeing
-www.astedams.it; APT38 - Spear-phishing against Boeing
-insiderppe.cloudapp.net; APT38 - Spear-phishing against Boeing
-fabianiarte.com; APT38 - Spear-phishing against Boeing
-anca-aste.it; APT38 - Spear-phishing against Boeing - Source: CISA
-agarwalpropertyconsultants.com; APT38 - Spear-phishing against Boeing - Source: CISA

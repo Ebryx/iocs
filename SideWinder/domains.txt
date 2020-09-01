@@ -1,0 +1,15 @@
+itfile.nsc.filesrvr.net;CVE-2017-118822 Exploitation August 2020 - ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
+asw-edu.net;CVE-2017-118822 Exploitation August 2020 - ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
+cdn-gov.net;CVE-2017-118822 Exploitation August 2020 - Spear-phishing document targetting Pakistan using Pakistan-India Relations briefing as bait
+
+r0dps.net;Spear-phishing using ASPAC document listing participant details AND against Bangladesh Indenting Agents' Association
+
+kat0x.net;Spearphishing Against Air University - Domain returns a LetsEncrypt certificate in reply to a DNS query made by .HTA malware
+www.au-edu.km01s.net;Spearphishing Against Air University - Hosts 'fila.hta' (stage-II malware)
+
+www.d01fa.net;COVID19 Themed Attack - Hosts malicious file.hta for covid-19 themed campaign
+cloud-apt.net;COVID19 Themed Attack - Domain returns a LetsEncrypt certificate in reply to a DNS query made by .hta malware
+www.fdn-en.net;COVID19 Themed Attack - Distributing similar malware variant
+ap-ms.net;COVID19 Themed Attack - Distributing similar malware variant
+www.nrots.net;COVID19 Themed Attack - Hosts the initial .hta malware which is returned in reply to the GET request by .LNK file
+fqn-cloud.net;COVID19 Themed Attack - Spear-phishing document listing information of Police officials infected with COVID

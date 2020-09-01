@@ -1,0 +1,3 @@
+istitutodarzo.gov.it;Emotet Trojan - Malspam - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
+hmgy.gov.co;Emotet Trojan - Malspam - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
+fcs.mg.gov.br;Emotet Trojan - Malspam - Source: https://twitter.com/0_1_0_1_0_0_0_0/status/1219599400495976448?s=09
