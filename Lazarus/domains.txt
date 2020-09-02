@@ -73,3 +73,7 @@ vanxuangroup.edu.vn;SkypeJob - Lazarus activity in Chilean Redbanc and Pakistan
 
 totalmateria.net;DTrack KKNP Nuclear Plant - Backdoor
 materialindia.in;DTrack KKNP Nuclear Plant - Backdoor
+
+https://gestao.simtelecomrs.com.br/sac/digital/client.jsp;Campaign targeting Japanese organizations
+https://sac.onecenter.com.br/sac/masks/wfr_masks.jsp;Campaign targeting Japanese organizations
+https://mk.bital.com.br/sac/Formule/Manager.jsp;Campaign targeting Japanese organizations
