@@ -1,6 +1,6 @@
 itfile.nsc.filesrvr.net;CVE-2017-118822 Exploitation August 2020 - ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
 asw-edu.net;CVE-2017-118822 Exploitation August 2020 - ZIP file containing a LNK file that fetches a HTA payload from a remote C2 server and executes it using mshta.exe
-cdn-gov.net;CVE-2017-118822 Exploitation August 2020 - Spear-phishing document targetting Pakistan using Pakistan-India Relations briefing as bait
+cdn-gov.net;CVE-2017-118822 Exploitation August 2020 - Spear-phishing document targeting Pakistan using Pakistan-India Relations briefing as bait
 
 r0dps.net;Spear-phishing using ASPAC document listing participant details AND against Bangladesh Indenting Agents' Association
 
