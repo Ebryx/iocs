@@ -1,0 +1,6 @@
+178.128.231.121; Spear-phishing document that utilizes the Template Injection technique. Targeted at Nepal since the document name LEKHA RACHANA is a Nepali word
+
+142.93.12.211; Fake Tencent Mobile QQ APK for Android
+
+164.90.228.113; Word document that utilizes the Remote Template Injection technique
+167.99.182.241; Word document that utilizes the Remote Template Injection technique

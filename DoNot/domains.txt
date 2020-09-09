@@ -1,0 +1,11 @@
+checkinternet.icu; Spear-phishing document that utilizes the Template Injection technique. Targeted at Nepal since the document name LEKHA RACHANA is a Nepali word
+
+spectronet.pw; Fake Tencent Mobile QQ APK for Android
+
+apifile.xyz; Word document that utilizes the Remote Template Injection technique
+tampotrust.top; Word document that utilizes the Remote Template Injection technique
+filecopying.xyz; Word document that utilizes the Remote Template Injection technique
+tampotrust.top; Word document that utilizes the Remote Template Injection technique
+yourcontents.xyz; Word document that utilizes the Remote Template Injection technique
+
+dnsresolve.live; Excel spreadsheet - launches a command prompt and creates a scheduled task for persistence
