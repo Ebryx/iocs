@@ -13,3 +13,6 @@ www.fdn-en.net;COVID19 Themed Attack - Distributing similar malware variant
 ap-ms.net;COVID19 Themed Attack - Distributing similar malware variant
 www.nrots.net;COVID19 Themed Attack - Hosts the initial .hta malware which is returned in reply to the GET request by .LNK file
 fqn-cloud.net;COVID19 Themed Attack - Spear-phishing document listing information of Police officials infected with COVID
+
+reawk.net; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
+ap-ms.net; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
