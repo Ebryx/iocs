@@ -1,6 +1,6 @@
-178.128.231.121; Spear-phishing document that utilizes the Template Injection technique. Targeted at Nepal since the document name LEKHA RACHANA is a Nepali word
+178.128.231.121;IP address for a server hosting a malicious template for a spear-phishing document
 
-142.93.12.211; Fake Tencent Mobile QQ APK for Android
+142.93.12.211;IP address of the C2 server for a fake Tencent Mobile QQ APK for Android
 
-164.90.228.113; Word document that utilizes the Remote Template Injection technique
-167.99.182.241; Word document that utilizes the Remote Template Injection technique
+164.90.228.113;IP address of the C2 server for a spear-phishing document attributed to DoNot APT
+167.99.182.241;IP address of the C2 server for a spear-phishing document attributed to DoNot APT

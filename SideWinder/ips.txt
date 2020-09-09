@@ -7,5 +7,5 @@
 185.225.19.96;COVID19 Themed Attack - Hosts the C2 domain cloud-apt[.]net
 185.163.47.134;COVID19 Themed Attack - Hosting similar malware variant
 
-46.30.188.208; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-185.244.149.50; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
+46.30.188.208;IP address of the C2 server for a network trojan attributed to SideWinder APT
+185.244.149.50;IP address of the C2 server for a network trojan attributed to SideWinder APT

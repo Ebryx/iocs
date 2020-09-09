@@ -80,14 +80,14 @@ b1fa0771099733e7a9fa296acc7518c1e36c4e473b59eec7acbfb89d80252757;COVID19 Themed 
 a89189f1c7c101c8d9c2637e571c4f8546df3ea557a576090cde7b75009981a9;COVID19 Themed Attack - info_regarding_Police_Official_Infectedwithcovid.doc - Spear-phishing document listing information of Police officials infected with COVID
 
 
-EFA413D87CF1EE085F83F9D57DD9A5C123A7957F77DE4FEC1D2F97F91898349A; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-0dd9d9638a59b6fbab792b7781962571b653c44ebae3d9b8351937ec71f0af8b; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-e34158b6fd7c46d71c8a58993ba84cd884c4c6f68cab1c844bbad7fb2e0e2378; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-5977e8169436ff69f57bba8e1094dab77545ecd10039d6b73b9270ca4850e37f; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-ae26a78a7440ec2412cf07d1a5b638f43e0877d31cee3345f744e990e54f3972; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-2f83e441d41a36fa69cc02cf9a4beed7797adce6c0f11eb0230e037e43685228; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-9603ea7c66935f693721d3a09947e9d159b51252e352ba4abff04e1bdedd2f2a; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
-f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9; Spearphishing document exploiting CVE-2017-11882 and dropping a network trojan attributed to SideWinder APT
+EFA413D87CF1EE085F83F9D57DD9A5C123A7957F77DE4FEC1D2F97F91898349A;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+0dd9d9638a59b6fbab792b7781962571b653c44ebae3d9b8351937ec71f0af8b;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+e34158b6fd7c46d71c8a58993ba84cd884c4c6f68cab1c844bbad7fb2e0e2378;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+5977e8169436ff69f57bba8e1094dab77545ecd10039d6b73b9270ca4850e37f;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+ae26a78a7440ec2412cf07d1a5b638f43e0877d31cee3345f744e990e54f3972;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+2f83e441d41a36fa69cc02cf9a4beed7797adce6c0f11eb0230e037e43685228;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+9603ea7c66935f693721d3a09947e9d159b51252e352ba4abff04e1bdedd2f2a;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
 
-54efd37bcd2a78db67319dcbf12cda2647f586d72fd6892472c454e1e3c4ab7f; Spearphishing document discussing Security of Embedded Systems in the Indian Navy. Exploits CVE-2017-11882
+54efd37bcd2a78db67319dcbf12cda2647f586d72fd6892472c454e1e3c4ab7f;Spearphishing document discussing Security of Embedded Systems in the Indian Navy. Exploits CVE-2017-11882
