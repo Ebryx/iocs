@@ -2,5 +2,7 @@
 
 142.93.12.211;IP address of the C2 server for a fake Tencent Mobile QQ APK for Android
 
+198.13.57.49; IP address of C2 server contacted by an Android malware application named VCallNChat
+
 164.90.228.113;IP address of the C2 server for a spear-phishing document attributed to DoNot APT
 167.99.182.241;IP address of the C2 server for a spear-phishing document attributed to DoNot APT

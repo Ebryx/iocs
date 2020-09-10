@@ -2,6 +2,8 @@ checkinternet.icu; Domain contacted by spear-phishing document that utilizes the
 
 spectronet.pw; Domain contacted by a fake Tencent Mobile QQ APK for Android
 
+jasper.drivethrough.top; C2 server domain contacted by an Android malware application named VCallNChat
+
 apifile.xyz; Domain contact by Word document that utilizes the Remote Template Injection technique
 tampotrust.top; Domain contacted by Word document that utilizes the Remote Template Injection technique
 filecopying.xyz; Domain contacted by Word document that utilizes the Remote Template Injection technique
@@ -9,3 +11,7 @@ tampotrust.top; Domain contacted by Word document that utilizes the Remote Templ
 yourcontents.xyz; Domain contacted by Word document that utilizes the Remote Template Injection technique
 
 dnsresolve.live; Domain contacted by malware dropped by Excel spreadsheet attributed to DoNot APT
+
+covidpk.uno; Domain which hosts a spear-phishing Excel spreadsheet attributed to DoNot APT
+yourcontents.xyz; C2 server domain contacted by malware dropped by Excel spreadsheet attributed to DoNot APT
+meflyiny.xyz; C2 server domain contacted by malware dropped by Excel spreadsheet attributed to DoNot APT
