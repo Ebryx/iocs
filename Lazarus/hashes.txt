@@ -1453,6 +1453,8 @@ dad8f05d749f3cddee19fd34cd3e5a84a2ef5ada7a4f20858d5e483617677d67;Malicious Spear
 56dabf1ddd5c9a93a6f35dd7f210367baee545296838d321dfea6ee49575c9af;Malicious Spear-phishing document targeting British Aerospace Systems - Source: ClearSky
 43b6b0af744124da5147aba81a98bc7188718d5d205acf929affab016407d592;Malicious Spear-phishing document targeting British Aerospace Systems - Source: ClearSky
 08a75ad3195d4e389786d338519913bbd86fb8112c2cf5c729297387207ce6e7; Spear-phishing document that uses Remote Template Injection technique targeting British Aerospace Systems
+9ae9ed06a69baa24e3a539d9ce32c437a6bdc136ce4367b1cb603e728f4279d5; Malicious DLL file that shares C2 server with Lazarus spear-phishing documents
+f77a9875dbf1a1807082117d69bdbdd14eaa112996962f613de4204db34faba7; Malicious DLL file that shares C2 server with Lazarus spear-phishing documents
 
 21afaceee5fab15948a5a724222c948ad17cad181bf514a680267abcce186831;Fake Dorusio Wallet (block-chain wallet app) update
 
