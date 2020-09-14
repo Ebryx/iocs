@@ -1,0 +1,5 @@
+bae7e41ea40657e39cab880015818fdc0ed6c8958b77fc6d42d94b8c7a730c7e;Netwalker ransomware sample - PowerShell script
+a84ac7f5b69e5eecc050d2048115c73ba534d58fb30441c3e4925792a5fb11c0;Netwalker ransomware sample - PowerShell script
+c9a82194dd0c9f126a0a1439ea1b5e76ca729d925a8c8657c6fa583f4519590d;Netwalker ransomware sample - Compressed file containing the ransomware executable
+f8046dd4ce4f0e5ad9285cb92824ba0d3f9e06fdf4954cab824892bba9e93ec1;Netwalker ransomware sample - Dropped DLL file
+b67462d593fd5171b3abc51b53801d6058349bc67697576890130b6cfda4b87f;Netwalker ransomware sample - Dropped DLL file
