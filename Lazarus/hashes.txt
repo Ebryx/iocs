@@ -1524,3 +1524,6 @@ bad180a18e0ffd789eafcff14be48c8a67c8dc4f;DTrack KKNP Nuclear Plant - Backdoor
 fe51590db6f835a3a210eba178d78d5eeafe8a47bf4ca44b3a6b3dfb599f1702;DTrack KKNP Nuclear Plant - Backdoor
 58fef66f346fe3ed320e22640ab997055e54c8704fc272392d71e367e2d1c2bb;DTrack KKNP Nuclear Plant - Backdoor
 9d9571b93218f9a635cfeb67b3b31e211be062fd0593c0756eb06a1f58e187fd;DTrack KKNP Nuclear Plant - Backdoor
+
+29a986aaae6111a9e726296c8d8384f11635028ea0b941d94c19e761aa58b6e7;Spear-phishing Microsoft Excel spreadsheet targeting South Korea, uses a macro to drop and execute a PowerShell script
+4503A194E5064595E36EF01ED87C24203ACCE56F308AF23E2563E71F890B0188;Malicious PowerShell script dropped by spear-phishing spreadsheet targeting South Korea
