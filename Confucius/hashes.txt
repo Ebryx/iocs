@@ -1,0 +1,11 @@
+6c0e78224fee0042b53808d6e6da2b921edca385b24cc05a570cada07f9db3a4;Operation Tibbar - spear-phishing Microsoft Word document that uses Remote Template Injection and targets Ministry of Foreign Affairs, Pakistan
+cbe0b01bdc4c363434b760f220994dc4d778ad95ce067ecc19ab228f8c6ff072;Operation Tibbar - AsyncRAT payload
+904e966da7b38514f6ac23bba1dac1858888cd48fa77b73c770156b19a88a4c8;Operation Tibbar - spear-phishing Microsoft Word document that uses Remote Template Injection
+67cacba2f313fd69b51eb0bc495ee79ce7f2706f068cb35a5419edc03c97449b;Operation Tibbar - SecureCRT payload
+f034ca10a9c00a0322bad11ebd95b8134a7bc773b797cdb9a7045aa99e2d518b;Operation Tibbar - SecureCRT payload
+6c0b77767edb9a8178c543ab3fc6e086db4b95dc483769ed4c76d78bcc4a7ce0;Operation Tibbar - Windows malware discovered on the Wah Industries Limited website
+d0dfacae0a948d924beffebf8ddbc94260843600ffb19b6e7f89c63975a4e769;Operation Tibbar - Windows malware discovered on the website of the Anti-Narcotics Force of Pakistan
+d99a976f5208744de34df2a9df38bcdd6fa70c67cc92a6de213adf69579ad708;Operation Tibbar - Windows malware discovered on the website of the Anti-Narcotics Force of Pakistan
+4d02a7969e34cdedb37997496c951b9e37f40eb8228deef6e436a3781ce00966;Operation Tibbar - Windows malware discovered on the website of the Anti-Narcotics Force of Pakistan
+9c604f4d400c1c500e6ff231504d05235c242bf6580f49180196a534d50123c3;Operation Tibbar - Android malware APK based on SpyNote RAT targeting Pakistan Railways
+7000035eb219b8d2da064a197cf4aa86471e893f9765c16e3f484f3b84b023ee;Operation Tibbar - Android malware APK based on SpyNote RAT targeting Pakistan Railways

@@ -1,0 +1,5 @@
+3.23.4.121;IP address of the C2 server contacted by the Government Officers.apk
+185.225.19.20;IP address of the C2 server of the trojan dropped by the downloader found on the Wah industries limited website
+3.82.140.14;IP address of the SecureCRT C2 server
+185.225.19.96;IP address of the C2 server of the trojan dropped by the downloader found on the Wah industries limited website
+92.118.190.16;IP address of the C2 server contacted by the Pak Railways.apk malware

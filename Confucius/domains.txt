@@ -1,0 +1,2 @@
+the-moondelight.96.lt;Hosts two malicious malicious Word template files and a SecureCRT payload
+fiesta.kozow.com;C2 server domain name of the AsyncRAT payload dropped from the MOFA spear-phishing document
