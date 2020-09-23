@@ -16,3 +16,6 @@ fqn-cloud.net;COVID19 Themed Attack - Spear-phishing document listing informatio
 
 reawk.net;Domain contacted by spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
 ap-ms.net;Domain contacted by spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
+
+www.fbr-gov.aws-pk.net;Domain name of C2 server hosting a malicious HTA file that downloads a payload
+cdn-aws-s2.net;Domain name of C2 server contacted by HTA file

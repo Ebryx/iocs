@@ -91,3 +91,5 @@ f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing d
 f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
 
 54efd37bcd2a78db67319dcbf12cda2647f586d72fd6892472c454e1e3c4ab7f;Spearphishing document discussing Security of Embedded Systems in the Indian Navy. Exploits CVE-2017-11882
+
+21646c896ccc422f64c7ed8888891d2946c4542260c6c02af9f99a7f5f6dd342;ZIP archive containing a LNK file that uses mshta.exe to download a payload
