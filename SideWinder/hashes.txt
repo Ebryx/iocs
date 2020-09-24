@@ -93,3 +93,4 @@ f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing d
 54efd37bcd2a78db67319dcbf12cda2647f586d72fd6892472c454e1e3c4ab7f;Spearphishing document discussing Security of Embedded Systems in the Indian Navy. Exploits CVE-2017-11882
 
 21646c896ccc422f64c7ed8888891d2946c4542260c6c02af9f99a7f5f6dd342;ZIP archive containing a LNK file that uses mshta.exe to download a payload
+0ee926f443c66a0d47365dbb6d21dcea6f6624e730c99f47cfb492ee2832419e; RTF document targeted at Pakistan. Exploits CVE-2017-11882 Vulnerablility
