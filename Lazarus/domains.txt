@@ -78,5 +78,10 @@ gestao.simtelecomrs.com.br/sac/digital/client.jsp;Campaign targeting Japanese or
 sac.onecenter.com.br/sac/masks/wfr_masks.jsp;Campaign targeting Japanese organizations
 mk.bital.com.br/sac/Formule/Manager.jsp;Campaign targeting Japanese organizations
 
-commodore.com.tr; C2 server domain contacted by malicious DLL attributed to Lazarus APT
-scimpex.com; C2 server domain contacted by malicious DLL attributed to Lazarus APT
+commodore.com.tr;C2 server domain contacted by malicious DLL attributed to Lazarus APT
+scimpex.com;C2 server domain contacted by malicious DLL attributed to Lazarus APT
+
+automercado.co.cr;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
+curiofirenze.com;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
+ne-ba.org;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
+sanlorenzoyacht.com;;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
