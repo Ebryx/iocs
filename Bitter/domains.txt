@@ -1,2 +1,3 @@
 livevideosonlinepk.com;Spear-phishing campaign targeted possibly at Pakistan
 mia.alkhaleejpk.info;Domain name of the C2 server for a campaign targeted possibly at Pakistan
+msisspsvc.net;Domain name of a server hosting malware
