@@ -15,3 +15,16 @@ dnsresolve.live;Domain contacted by malware dropped by Excel spreadsheet attribu
 covidpk.uno;Domain which hosts a spear-phishing Excel spreadsheet attributed to DoNot APT
 yourcontents.xyz;C2 server domain contacted by malware dropped by Excel spreadsheet attributed to DoNot APT
 meflyiny.xyz;C2 server domain contacted by malware dropped by Excel spreadsheet attributed to DoNot APT
+
+advancesearch.xyz;C2 server domain contacted by a fake Android app store application
+genwar.drivethrough.top;C2 server domain contacted by a fake Voice-over-IP application
+apkv2.qwertykeypad.host;Domain name of a server used to distribute Android malware
+param.drivethrough.top;C2 server domain contacted by a fake Voice-over-IP application
+car.drivethrough.top;C2 server domain contacted by a fake Voice-over-IP application
+
+apk.qwertykeypad.host;C2 server domain associated to DoNot APT - Source: RiskIQ
+appie.host;C2 server domain associated to DoNot APT - Source: RiskIQ
+alter.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
+bike.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
+jasper.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
+qwe.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ

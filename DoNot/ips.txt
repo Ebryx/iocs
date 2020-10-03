@@ -6,3 +6,17 @@
 
 164.90.228.113;IP address of the C2 server for a spear-phishing document attributed to DoNot APT
 167.99.182.241;IP address of the C2 server for a spear-phishing document attributed to DoNot APT
+
+104.248.22.47;IP address of the C2 server domain contacted by a fake Android app store application
+82.196.5.24;IP address of a server used to distribute Android malware
+
+138.197.148.53;IP address of a DoNot APT C2 server - Source: RiskIQ
+139.162.96.56;IP address of a DoNot APT C2 server - Source: RiskIQ
+146.185.161.85;IP address of a DoNot APT C2 server - Source: RiskIQ
+146.185.171.193;IP address of a DoNot APT C2 server - Source: RiskIQ
+178.62.223.144;IP address of a DoNot APT C2 server - Source: RiskIQ
+198.13.57.49;IP address of a DoNot APT C2 server - Source: RiskIQ
+37.139.30.216;IP address of a DoNot APT C2 server - Source: RiskIQ
+46.101.204.168;IP address of a DoNot APT C2 server - Source: RiskIQ
+68.183.100.97;IP address of a DoNot APT C2 server - Source: RiskIQ
+95.179.201.216;IP address of a DoNot APT C2 server - Source: RiskIQ
