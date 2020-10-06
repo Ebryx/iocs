@@ -85,3 +85,5 @@ automercado.co.cr;C2 server domain contacted by BLINDINGCAN malware - Source: JP
 curiofirenze.com;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
 ne-ba.org;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
 sanlorenzoyacht.com;;C2 server domain contacted by BLINDINGCAN malware - Source: JPCert
+
+publishapp.co;C2 server domain contact by a fake Microsoft Edge executable
