@@ -28,3 +28,6 @@ alter.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
 bike.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
 jasper.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
 qwe.drivethrough.top;C2 server domain associated to DoNot APT - Source: RiskIQ
+
+webchat.life;C2 server domain associated with a fake app store
+joy-trends.xyz;C2 server domain associated with a fake app store

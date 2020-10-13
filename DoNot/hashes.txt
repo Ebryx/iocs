@@ -35,3 +35,5 @@ b59675f67358606ffe1af42911aec3c7223e6b7ab7f024682a4ab48026d51ddc;Android malware
 377610a4c8aa4170979ae6a4e3bb118cb33aef7a45c2a1c24b297797ba8f80b3;Android malware with package name "google.update.checkjm"
 9ef27402c22f2dca4ff55ffa321b4f01a23504136f74a73c8c88976fa9a00f9c;Android malware with package name "com.jgoogle.android.gserviceinapp"
 cbf545b3784cce9ac2370f99ac3bf49ac25aeab045fc7e79347922307a749bc1;Android malware with package name "com.lite.sysupdate"
+
+70df22a25cbb8715f1d3dd693123ac92203b3a27dfc6c7fa0e48239cf15cbf02;Android malware disguised as an app store
