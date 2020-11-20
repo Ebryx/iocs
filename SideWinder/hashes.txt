@@ -60,14 +60,12 @@ eaccbb6d89881f405a5e2041e9a174ac5070eabfd65960fe081b67e777082f0c;CVE-2017-118822
 
 e40a12e6e64fdd06abe843b2e70bfc59c279923cec7bc47f8c8964b4d7a53b7b;Spear-phishing using ASPAC document listing participant details
 
-
 f7433b0391cb364581243faed48fbb0ee4ab0e76f069d90792e31a5d6a744ea7;Spearphishing Against Air University - Policy Guidelines for Online Classes.pdf.lnk - Executable .LNK file which contacts the C2 server and downloads the stage-I malware
 dc9ea7ba8463d289270d848adf9413c0f575b8f9ebba4d9e61d8f468c89338f6;Spearphishing Against Air University - 3387c59.hta - HTA file with highly obfuscated and encrypted JavaScript code that unpacks an embedded binary written by James Forshaw at Google Project Zero along with a decoy PDF
 d20296fcf6387a3d2ab3b19e8051fb4d96ad32940c9ae4e19bb899ad3ee7ebe2;Spearphishing Against Air University - file.hta - Variant of 3387c59.hta that uses a different XOR decryption key but follows the same algorithm
 6be6662c8c592197982d833c5b9d3da041a9f96a5e44ae07f768b9bafce40b5e;Spearphishing Against Air University - LinkZip.dll - Malicious binary embedded inside 966029e.hta, gets unpacked directly into the memory as an anti-forensics mechanism. The binary is written by James Forshaw of Google Project Zero
 fa86b5bc5343ca92c235304b8dcbcf4188c6be7d4621c625564bebd5326ed850;Spearphishing Against Air University - rekeywiz.exe - Vulnerable native utility (wizard) used for EFS certificates 
 f5bef2c81c90d991d58caec3c19e8cb84b928279fc677aba942fd2ee004b3c8c;Spearphishing Against Air University - StInstaller.dll - Stage-II dropper which adds in persistence via registry keys
-
 
 9b0b837e2c4c06c0754824282b9f39dab7ab5681ff118ca6a6f6e548df13dfd2;COVID19 Themed Attack - Pak_Army_Deployed_in_Country_in_Fight_Against_Coronavirus.pdf.lnk - Executable .lnk file containing URL and command to contact C2 server and download the payload
 f8b053e32eed9a5e814c89eec50e743a906f1aadc7a6f58e25f0410863c5ec4a;COVID19 Themed Attack - Additional_CSD_Rebate.exe.lnk - Executable .lnk file containing URL and command to contact C2 server and download the payload
@@ -78,7 +76,6 @@ b1fa0771099733e7a9fa296acc7518c1e36c4e473b59eec7acbfb89d80252757;COVID19 Themed 
 34ab2e72624e808efa66cccb9ea2ec086b02927165dfc00d477cf573ffff2761;COVID19 Themed Attack - file.hta - Variant of 966029e.hta that uses a different XOR decryption key but same algorithm
 08588edcd50c3d5a81531e0ecfe8b01a105d4ce93a3084f268ddf23cddbf44c9;COVID19 Themed Attack - LinkZip.dll - Malicious binary embedded inside 966029e.hta, gets unpacked directly into the memory as an anti-forensics mechanism. The binary is written by James Forshaw of Google Project Zero
 a89189f1c7c101c8d9c2637e571c4f8546df3ea557a576090cde7b75009981a9;COVID19 Themed Attack - info_regarding_Police_Official_Infectedwithcovid.doc - Spear-phishing document listing information of Police officials infected with COVID
-
 
 EFA413D87CF1EE085F83F9D57DD9A5C123A7957F77DE4FEC1D2F97F91898349A;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
 0dd9d9638a59b6fbab792b7781962571b653c44ebae3d9b8351937ec71f0af8b;Spearphishing document that exploits CVE-2017-11882 and drops a network trojan attributed to SideWinder APT
@@ -93,4 +90,14 @@ f08ccc040c8d8db60f30a6d1026aa6523e97c6cf52b1b30f083a830a0a65a3a9;Spearphishing d
 54efd37bcd2a78db67319dcbf12cda2647f586d72fd6892472c454e1e3c4ab7f;Spearphishing document discussing Security of Embedded Systems in the Indian Navy. Exploits CVE-2017-11882
 
 21646c896ccc422f64c7ed8888891d2946c4542260c6c02af9f99a7f5f6dd342;ZIP archive containing a LNK file that uses mshta.exe to download a payload
-0ee926f443c66a0d47365dbb6d21dcea6f6624e730c99f47cfb492ee2832419e; RTF document targeted at Pakistan. Exploits CVE-2017-11882 Vulnerablility
+0ee926f443c66a0d47365dbb6d21dcea6f6624e730c99f47cfb492ee2832419e;RTF document targeted at Pakistan. Exploits CVE-2017-11882 Vulnerablility
+
+1cbec920afe2f978b8f84e0a4e6b757d400aeb96e8c0a221130060b196ece010;NYBZK-BREP_reg.form_1113.docx - Spear-phishing document listing information of The Belt and Road (B&R) initiative
+8d7ad2c603211a67bb7abf2a9fe65aefc993987dc804bf19bafbefaaca066eaa;DUser DLL used to load the malware into memory and avoid AV detections
+fd6911dae15b95fb7d262934efbcca9dc96c5cc697e3c5ca3d19c5cec4f036e3;DUser DLL used to load the malware into memory and avoid AV detections
+6e7a2f17797aa6eba506304300f79fe57d1c60b41647bbe6a0afc085d5fab1f3;DUser DLL used to load the malware into memory and avoid AV detections
+474a9d484d02c2ce8edd16dd7409fe29a708238e66d7bd4aa4eace6e62b05874;DUser DLL used to load the malware into memory and avoid AV detections
+0b7f142d75c05ee31a4c2c0b623401707913d35de1f4725a76af153bdcb9fd25;RTF document used to drop obfuscated JS scripts and loaders
+eebc8a63412367e6eb1056d1788f3beb1410aea09767a66c11f158edbe9d7071;Obfuscated JavaScript code (HTA) which act as a dropper for malicious binaries
+75c158cea14e338c8d9d32ed988c7032da9ae6d54f5b1126ed6a83f71b9e03bf;Obfuscated JavaScript code (HTA) which act as a dropper for malicious binaries
+fa86b5bc5343ca92c235304b8dcbcf4188c6be7d4621c625564bebd5326ed850;rekeywiz.exe - Vulnerable native utility (wizard) used for EFS certificates 

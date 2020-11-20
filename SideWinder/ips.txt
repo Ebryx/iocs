@@ -9,3 +9,4 @@
 
 46.30.188.208;IP address of the C2 server for a network trojan attributed to SideWinder APT
 185.244.149.50;IP address of the C2 server for a network trojan attributed to SideWinder APT
+185.225.17.32;Spear-phishing document listing information of The Belt and Road (B&R) initiative - Hosts brep.cdn-edu[.]net
