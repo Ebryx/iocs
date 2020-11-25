@@ -20,4 +20,5 @@ ap-ms.net;Domain contacted by spearphishing document that exploits CVE-2017-1188
 www.fbr-gov.aws-pk.net;Domain name of C2 server hosting a malicious HTA file that downloads a payload
 cdn-aws-s2.net;Domain name of C2 server contacted by HTA file
 
-brep.cdn-edu.net;Hosts the malicious RTF document exploiting CVE-2017-11882
+brep.cdn-edu.net;Domain hosting the malicious RTF document exploiting CVE-2017-11882
+ms-trace.net; C2 server used to exfiltrate information from a compromised host

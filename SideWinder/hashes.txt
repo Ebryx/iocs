@@ -100,4 +100,10 @@ fd6911dae15b95fb7d262934efbcca9dc96c5cc697e3c5ca3d19c5cec4f036e3;DUser DLL used 
 0b7f142d75c05ee31a4c2c0b623401707913d35de1f4725a76af153bdcb9fd25;RTF document used to drop obfuscated JS scripts and loaders
 eebc8a63412367e6eb1056d1788f3beb1410aea09767a66c11f158edbe9d7071;Obfuscated JavaScript code (HTA) which act as a dropper for malicious binaries
 75c158cea14e338c8d9d32ed988c7032da9ae6d54f5b1126ed6a83f71b9e03bf;Obfuscated JavaScript code (HTA) which act as a dropper for malicious binaries
-fa86b5bc5343ca92c235304b8dcbcf4188c6be7d4621c625564bebd5326ed850;rekeywiz.exe - Vulnerable native utility (wizard) used for EFS certificates 
+fa86b5bc5343ca92c235304b8dcbcf4188c6be7d4621c625564bebd5326ed850;rekeywiz.exe - Vulnerable native utility (wizard) used for EFS certificates
+
+7238f4e5edbe0e5a2242d8780fb58c47e7d32bf2c4f860c88c511c30675d0857;RTF document exploiting CVE-2017-11882 with embedded payloads
+ed5e1d6e914de64a203f2f32ab95176fc7efff3a520915971d5fe748e79d611c;1.a - Obfuscated JavaScript code (HTA) which act as a dropper for malicious binaries
+24d25ce2a881cc10d3c1af7d5756e7c753da9dc0e515e1742500a59cf9c5f8b8;DUser.dll - DLL used to load the malware into memory and avoid AV detections
+fa86b5bc5343ca92c235304b8dcbcf4188c6be7d4621c625564bebd5326ed850;rekeywiz.exe - Vulnerable native utility (wizard) used for EFS certificates
+b1fa0771099733e7a9fa296acc7518c1e36c4e473b59eec7acbfb89d80252757;rekeywiz.exe.config - A config file passed to rekeywiz.exe during the stage-1 malware execution and can be used as an artefact produced during the attack to detect compromise
